@@ -1,0 +1,6 @@
+2016/10/15 16:59:02 [error] 20879#20879: *1 directory index of "/home/geisson/Documentos/Projetos/Task-list/API_frontend/" is forbidden, client: 127.0.0.1, server: tasks, request: "GET / HTTP/1.1", host: "localhost:5000"
+2016/10/15 16:59:09 [error] 20879#20879: *1 directory index of "/home/geisson/Documentos/Projetos/Task-list/API_frontend/" is forbidden, client: 127.0.0.1, server: tasks, request: "GET / HTTP/1.1", host: "localhost:5000"
+2016/10/15 16:59:24 [error] 20879#20879: *1 directory index of "/home/geisson/Documentos/Projetos/Task-list/API_frontend/" is forbidden, client: 127.0.0.1, server: tasks, request: "GET / HTTP/1.1", host: "localhost:5000"
+2016/10/15 17:05:27 [error] 20879#20879: *4 directory index of "/home/geisson/Documentos/Projetos/Task-list/API_frontend/" is forbidden, client: 127.0.0.1, server: tasks, request: "GET / HTTP/1.1", host: "localhost:5000"
+2016/10/15 17:05:30 [error] 20879#20879: *4 directory index of "/home/geisson/Documentos/Projetos/Task-list/API_frontend/" is forbidden, client: 127.0.0.1, server: tasks, request: "GET / HTTP/1.1", host: "localhost:5000"
+2016/10/15 17:21:01 [error] 20879#20879: *5 directory index of "/home/geisson/Documentos/Projetos/Task-list/API_frontend/" is forbidden, client: 127.0.0.1, server: tasks, request: "GET / HTTP/1.1", host: "localhost:5000"
